@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+
+.App {
+	height: 100vh;
+}
+
+.points-container {
+	height: 100vh;
+}
+
+.point {
+	display: inline;
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	border: 2px solid black;
+	background: pink;
+}
+
